@@ -1,5 +1,5 @@
 # imagesCrawler4pixiv
-pixiv站图片下载工具，保证下到的是像素最全的图
+pixiv站图片下载工具，保证下到的是像素最全最高清的图
 
 帮朋友写的一个工具，根据指定的id下载www.pixiv.net对应id的插画集
 
