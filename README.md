@@ -15,6 +15,6 @@ pixiv站图片下载工具，保证下到的是像素最全最高清的图
 
 其中url的68409293部分即为id，点击跳转后到地址https://www.pixiv.net/member_illust.php?mode=medium&illust_id=68409293   ，最后跟的也是id。
 
-将id写入ids.txt后保存（一行一个id），运行download_pic.py便会生成pic文件夹，内部即下载好的文件。
+将id写入ids.txt后保存（一行一个id），运行download_pic.py，pics内部即为下载好的文件。也可以自行修改存放位置
 
 由于国内访问pixiv不稳定，建议配合vps或vpn食用
