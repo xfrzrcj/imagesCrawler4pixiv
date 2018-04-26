@@ -13,4 +13,4 @@ pixiv站图片下载工具，保证下到的是像素最全的图
 
 右键图片检查元素可查到获得 https://i.pximg.net/c/240x240/img-master/img/2018/04/26/08/52/22/68409293_p0_master1200.jpg
 
-其中url的68409293部分即为id，点击跳转后到地址https://www.pixiv.net/member_illust.php?mode=medium&illust_id=68409293，最后跟的就是id。
+其中url的68409293部分即为id，点击跳转后到地址https://www.pixiv.net/member_illust.php?mode=medium&illust_id=68409293   ，最后跟的也是id。
