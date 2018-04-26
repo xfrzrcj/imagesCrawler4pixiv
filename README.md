@@ -7,7 +7,7 @@ pixiv站图片下载工具
 
 食用说明：
 
-例如https://www.pixiv.net/search.php?word=gundam页面的,想获取如下图红圈所示id，
+例如https://www.pixiv.net/search.php?word=gundam   页面的,想获取如下图红圈所示id，
 
 ![image](https://github.com/xfrzrcj/imagesCrawler4pixiv/images/example1.png)
 
