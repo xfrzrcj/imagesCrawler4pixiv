@@ -17,4 +17,4 @@ pixiv站图片下载工具，保证下到的是像素最全最高清的图
 
 将id写入ids.txt后保存（一行一个id），运行download_pic.py便会生成pic文件夹，内部即下载好的文件。
 
-由于国内访问pixiv不稳定，建议自配vps或vpn食用
+由于国内访问pixiv不稳定，建议配合vps或vpn食用
