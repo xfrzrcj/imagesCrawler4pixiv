@@ -9,7 +9,7 @@ pixiv站图片下载工具，保证下到的是像素最全的图
 
 例如https://www.pixiv.net/search.php?word=gundam   页面的,想获取如下图红圈所示id，
 
-![image](https://github.com/xfrzrcj/imagesCrawler4pixiv/images/example1.png)
+![image](https://github.com/xfrzrcj/imagesCrawler4pixiv/blob/master/images/example1.png)
 
 右键图片检查元素可查到获得 https://i.pximg.net/c/240x240/img-master/img/2018/04/26/08/52/22/68409293_p0_master1200.jpg
 
